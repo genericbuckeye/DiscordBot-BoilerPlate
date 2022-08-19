@@ -1,6 +1,6 @@
 # Discord Bot Boiler Plate
 
-Discord.py 2.0 Boiler Plate with Docker containerization and docker-compose for orchestration. It is setup to allow for two different environments (dev/prod.
+Discord.py 2.0 Boiler Plate with Docker containerization and docker-compose for orchestration. It is setup to allow for two different environments (dev/prod).
 
 - Cogs
 - Slash Commands
