@@ -1,0 +1,7 @@
+{
+    "BOT_NAME":"Bot",
+    "BOT_PREFIX":"!",
+    "BOT_TOKEN":"",
+    "GUILD_ID":123,
+    "APP_ID": 123
+}
